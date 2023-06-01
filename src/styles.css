@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Fuzzy+Bubbles&family=Merienda:wght@400;700&family=Poppins:wght@400;500;600&display=swap');
+
+/* Responsive styles */
+@media (max-width: 767px) {
+  .h-screen {
+    height: auto;
+  }
+  img {
+    height: 65vh !important;
+    width: 60vw !important;
+  }
+}
+
+@media (min-width: 768px) {
+  .h-screen {
+    height: 100vh;
+  }
+  img {
+    height: 90vh !important;
+    width: 100% !important;
+  }
+  input,
+  button {
+    width: 30vw !important;
+    height: 8vh !important;
+  }
+}
+button{
+    box-shadow: 0px 20px 20px rgba(8, 8, 8, 0.4) !important;
+    color: #fff;
+    transform: translateY(-7px);
+}
+
+#logo {
+  height: 4rem !important;
+  width: 5rem !important;
+  
+}
+
+#backgroundImage {
+  border-radius: 1.7rem;
+}
+
+p{
+
+    color:#9BABB8;
+}
+.headingColor, .signUp {
+  color: green;
+}
+
+.forget{
+    
+    color:#9BABB8 
+}
+
+.comLogo h1{
+    font-family: "Fuzzy Bubbles";
+    letter-spacing: 5px;
+}
+
+.imageFooter{
+    display: flex;
+    justify-content: space-between;
+    
+}
