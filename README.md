@@ -9,8 +9,11 @@ In the project directory, you can run:
 ### `npm start`
 
 
-
 Project Hosted on Netlify
 https://exo-project.netlify.app/
 
 
+Github Code
+https://github.com/Deepakgauttam/exo-project
+
+Screen-shot are added in src/assets/screen-shot
